@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Sean 👋
+
+* 🧐 Looking for work as Junior Developer
+* 🙌 Full-Stack Web Developer knowledge
+* 💪 Ready to take on new skills in this constantly evolving field
+* 🖥 Currently working on my own project 🤫
+* 🔭 Searching for new languages to add to my skillset
+* ⚡ Fun fact: I love to play games on my computer and work on my tower
 
 <!--
 **stmaddox/stmaddox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
