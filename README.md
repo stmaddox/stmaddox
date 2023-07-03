@@ -4,7 +4,7 @@
 * 🙌 Full-Stack Web Developer knowledge
 * 💪 Ready to take on new skills in this constantly evolving field
 * 🖥 Currently working on my own project 🤫
-* 🔭 Searching for new languages to add to my skillset
+* 🔭 Currently learning TypeScript
 * ⚡ Fun fact: I love to play games on my computer and work on my tower
 
 <!--
